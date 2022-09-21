@@ -21,12 +21,10 @@ function App() {
 
   const selectUser = (user) => {
     setUserSelected(user);
-    // alert(user);
   }
 
   const deselectUser = () => setUserSelected(null);
 
-  // console.log(users);
   return (
     <div className="App">
       <UsersForm 

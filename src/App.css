@@ -25,7 +25,6 @@
 }
 
 .user-item{
-  /* width: 100%; */
   flex-grow: 1;
   padding: 10px;
 }
@@ -45,7 +44,6 @@
   display: flex;
   justify-content: space-evenly;
   padding-top: 10px;
-  /* width: 100%; */
 }
 
 .btn-edit{
